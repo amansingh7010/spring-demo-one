@@ -1,5 +1,5 @@
 package com.springdemo;
-
+//second commit
 public class BaseballCoach implements Coach {
 
 	private FortuneService fortuneService;
